@@ -31,4 +31,4 @@ Project is complete.
 Inspired by learning new things and being organized.  
 
 ## Contact
-Created by Alex Chigas. 
+Created by Farnoush Yousefi
